@@ -1,9 +1,9 @@
 {
-  "name":"ChatGPT Web App",
-  "short_name":"ChatGPT",
-  "description":"Web app for ChatGPT",
-  "theme_color":"#75A99B",
-  "background_color":"#343541",
+  "name":"Tweet Web App",
+  "short_name":"Tweet",
+  "description":"Web app for Tweeting",
+  "theme_color":"#1DA1F2",
+  "background_color":"#15202B",
   "icons":[
     {
       "src":"pwa-192x192.png",

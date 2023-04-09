@@ -1,7 +1,7 @@
 {
   "name":"Tweet Web App",
   "short_name":"Tweet",
-  "description":"Web app for Tweeting",
+  "description":"Web app for tweeting",
   "theme_color":"#1DA1F2",
   "background_color":"#15202B",
   "icons":[

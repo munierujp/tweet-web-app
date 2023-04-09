@@ -1,0 +1,16 @@
+{
+  "name": "chatgpt-web-app",
+  "version": "0.1.0",
+  "description": "Web app for ChatGPT",
+  "scripts": {
+    "lint": "npm-run-all -p lint:*",
+    "lint:html": "markuplint \"**/*.html\"",
+    "lint:js": "eslint ."
+  },
+  "devDependencies": {
+    "@munierujp/eslint-config": "8.0.0",
+    "eslint": "8.37.0",
+    "markuplint": "3.6.1",
+    "npm-run-all2": "6.0.5"
+  }
+}

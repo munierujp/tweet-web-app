@@ -7,5 +7,5 @@ const isStandalone = () => {
 }
 
 if (isStandalone()) {
-  window.location.href = 'https://chat.openai.com/'
+  window.location.href = 'https://twitter.com/compose/tweet'
 }

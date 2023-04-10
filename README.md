@@ -4,6 +4,13 @@
 
 Web app for tweeting
 
+<div align="center">
+  <img
+    src="./meta/screenshot.png"
+    width="600"
+  >
+</div>
+
 ## Usage
 
 1. Open https://tweet.munieru.app/
